@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 294189c87b316f1479b2a0262e24c98f
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sans titre - 1-01
+    second: {fileID: 2800000, guid: c80cb8ca6aabe6b4fa689fe5ade025fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sans titre - 1-02
+    second: {fileID: 2800000, guid: 4ba4dcff62f189545bda6478f8a23ab7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ahyees-01
+    second: {fileID: 2800000, guid: 4e80d7ea353077b45bdd659959dcdc1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ahyees-02
+    second: {fileID: 2800000, guid: 12f670e5c6a5a714ea01433d3c52f955, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ahyees-03
+    second: {fileID: 2800000, guid: ec4657bf47606f2428de9d0e71cec1b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ahyees-04
+    second: {fileID: 2800000, guid: 01632ef9aa72f8a44bc211f4a9862167, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: arcen-01
+    second: {fileID: 2800000, guid: 57d4747e693f2384181d780bc18f76f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: endesous-01
+    second: {fileID: 2800000, guid: d41d24043e541ff459bf45de9d4f9561, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: foutain-01
+    second: {fileID: 2800000, guid: 3ea0f286d1a4b0341992d3077f833c10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gregregre-01
+    second: {fileID: 2800000, guid: 672ee23afd5993a4cbc5aa0a57a849a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: housee-01
+    second: {fileID: 2800000, guid: af4b01355095629448c44e14675efe43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: https-2F2Fvdist.aws_.mashable.com2Fcms2F20172F82F279d3ec0-b784-53562Fthumb2F00001-02
+    second: {fileID: 2800000, guid: c7fc6d5e2a152c44089cdf40a607b0d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: learbre-01
+    second: {fileID: 2800000, guid: c425adc839120ba42899ccdf88106a46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: letoiit-01
+    second: {fileID: 2800000, guid: 97b208f23f64f004a8bc522c5f5884f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ngn-01
+    second: {fileID: 2800000, guid: da1d515a3b1d41640969ae2d014b38df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ochato-01
+    second: {fileID: 2800000, guid: c54a64e08feade442b286a27834ad163, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: osuf1vt8w0uz-03
+    second: {fileID: 2800000, guid: 038329d07b9381643b72bd4cf7c7c0af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: osuf1vt8w0uz-04
+    second: {fileID: 2800000, guid: d4977cc3e8ef2c842956dcdda5c0677a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: osuf1vt8w0uz-05
+    second: {fileID: 2800000, guid: 1117b5a0d3706264ba672c029902ce58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: osuf1vt8w0uz-06
+    second: {fileID: 2800000, guid: 9af825ccfac34814eb338c94e6e6d2d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: osuf1vt8w0uz-07
+    second: {fileID: 2800000, guid: 3b6d6d616d9bd9b4e99f31e9d235ce2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: planche-01
+    second: {fileID: 2800000, guid: de05e7a848d50464d9a3fc95ccf70f59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: poubelle-01
+    second: {fileID: 2800000, guid: 50b8b65f86067d744807331d1afa852c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: poubelle-02
+    second: {fileID: 2800000, guid: 9fedacd0ffa4c8a40a0f5aeeefc21b87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rope_texture_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_1257575
+    second: {fileID: 2800000, guid: 75f27156386cf5e4a97d3930dd5dc0dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sucre-01
+    second: {fileID: 2800000, guid: d4feca6a6aa12164fbc98c62ac626b1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: textureparcmontagnerusse-01
+    second: {fileID: 2800000, guid: 2a640f3c3ca548a4da8c7d1852bb7ea4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: textureparcmontagnerusse-04
+    second: {fileID: 2800000, guid: 6d2ba86cbbe0a284db7f5c33d0d74497, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: textureparcmontagnerusse-08
+    second: {fileID: 2800000, guid: 5479dc7e372cfe742834abffbb333429, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
